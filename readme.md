@@ -6,11 +6,12 @@ Repo where I can keep track of jQuery projects I have completed and the code tha
 2. Pocketbook
 3. Threadly
 4. Forecast
+5. Portafolio page
 
 ## Memes
 
 A meme generator using .keyup event and .text()  </br>
-Take a look at the project.
+
 ### How To Create Your Memes
 
 On the right side of the screen there are three input fields. </br>
@@ -21,7 +22,7 @@ Copy the image address you want to use and enter the text where you would like i
 
 ## Pocketbook
 
-In this project I learn to use the .submit() event to make an error message appear when any of the fields in the form are filled incorrectly. </br>
+In this project I used .submit() event to make an error message appear when any of the fields in the form are filled incorrectly. </br>
 More logic can be added to clear out the errors when the fields are filled out, I will continue tinkering with this project to add more functionality.
 
 <img src="http://i.imgur.com/yGaxsuR.gif"/>
