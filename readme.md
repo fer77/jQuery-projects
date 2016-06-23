@@ -2,11 +2,12 @@
 Repo where I can keep track of jQuery projects I have completed and the code that I have used.
 
 #### Projects
-1. Memes.
+1. Memes
 2. Pocketbook
 3. Threadly
 4. Forecast
 5. Portafolio page
+6. List Easy
 
 ## Memes
 
@@ -46,3 +47,9 @@ Weather app that uses click events to display hourly forecasts.
 Added filtering to a portafolio page using .addClass() and .removeClass().
 
 <img src="http://i.imgur.com/ywfZ8yi.png"/>
+
+##List Easy
+
+Add a new item, star items, and remove items.
+
+<img src="http://i.imgur.com/YRDbAxC.png"/>
